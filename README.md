@@ -1,4 +1,13 @@
 # JAVACARD-Acos3
+
+The project contains two files :
+
+JC_ACOS3.java : contains the code correspending to the applet
+
+jc_acos3.scr : contains a script that describes a specific scenario for the use of the developed applet. Mainly compesed of APDU commands. The results will be visible in the output window. This is alowing us to test our applet and check the consistency of the APDU responses for each APDU command
+
+
+
 1. Objectif :
 
 
